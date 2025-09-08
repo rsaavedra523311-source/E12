@@ -1,0 +1,39 @@
+.p{
+    color: white;
+    font-size: 20px;
+    text-align:start;
+}
+
+.cat{
+    display: block;
+    width: 500px;
+    height: 500px;
+    background-color:green;
+    float: left;
+    font-size: 30px;
+}
+
+.dog{
+    display: inline-block;
+    width:500px;
+    height:500px;
+    background-color:red;
+    margin-left: 500px;
+    float: right;
+    font-size: 30px;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+span{
+    font-weight: bold;
+}
+footer{
+    Text-align:center;
+    background-color: blueviolet;
+    clear: both;
+}
